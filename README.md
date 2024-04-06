@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -91,4 +90,3 @@ model.visualize(X_test, y_test)</code></pre>
 
 </body>
 </html>
-=======
