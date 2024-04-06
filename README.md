@@ -8,7 +8,7 @@
 
 <h1>Machine Learning Algorithms Implementations</h1>
 
-<p>This repository contains Python implementations of popular machine learning algorithms from scratch. The implemented algorithms include:</p>
+<p>This repository contains Python implementations of popular machine-learning algorithms from scratch. The implemented algorithms include:</p>
 
 <ul>
     <li>Linear Regression</li>
@@ -65,7 +65,7 @@
 
 <ol>
     <li>Clone the repository to your local machine:</li>
-    <pre><code>git clone https://github.com/vikramk55/machine-learning-algorithms.git</code></pre>
+    <pre><code>git clone https://github.com/vikramk55/ml-algorithms-from-scratch.git</code></pre>
     <li>Navigate to the directory containing the algorithm you want to use (e.g., Linear Regression):</li>
     <pre><code>cd machine-learning-algorithms/linear_regression</code></pre>
     <li>Import the respective class into your Python script:</li>
